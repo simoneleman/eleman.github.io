@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](https://medium.com/@elemansimon/bias-variance-trade-off-polynomial-regression-41af9079aec2)
+[Bias variance Trade-off](https://medium.com/@elemansimon/bias-variance-trade-off-polynomial-regression-41af9079aec2)
 <img src="images/residual distribution 3.png?raw=true"/>
 
 ---
