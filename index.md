@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Polynomial Linear Regression 
 
 [Bias variance Trade-off](https://medium.com/@elemansimon/bias-variance-trade-off-polynomial-regression-41af9079aec2)
-<img src="images/residual distribution 3.png?raw=true"/>
+<img src="images/bias variance trade-off.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
